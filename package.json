@@ -1,0 +1,26 @@
+{
+  "name": "8_5_arr_manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipemalz/8_5_arr_manipulation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipemalz/8_5_arr_manipulation/issues"
+  },
+  "homepage": "https://github.com/pipemalz/8_5_arr_manipulation#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "optionalDependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
